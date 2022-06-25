@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ngrx-app-ec7fa": {
+      "hosting": {
+        "ngrx-app": [
+          "ngrx-app-ec7fa"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ngrx-app-ec7fa"
+  }
+}
